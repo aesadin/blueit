@@ -102,7 +102,6 @@ class PostControl extends React.Component {
 
 
 
-
 render (){
   let currentlyVisibleState = null;
   let buttonText = null;
